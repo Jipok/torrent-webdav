@@ -1,8 +1,9 @@
 # Torrent WebDAV Client
 
-https://github.com/Jipok/torrent-webdav/assets/25588359/f1086431-b5bf-4f9d-8983-6ca593b5252f
+> [!WARNING]  
+> Although the program is tested and works, it was not designed with a focus on actual use. This is a proof-of-concept torrent client(based on the [anacrolix/torrent](https://github.com/anacrolix/torrent) library) with the ability to stream content over the network. The idea was successful, but I realized that it would be better to mount torrent via FUSE. So I do not intend to further develop this project. This is still a good example of using the library and implementing a WebDav server.
 
-Torrent WebDAV Client is a powerful tool designed to streamline the process of managing and accessing torrent files over a network. This application combines the capabilities of a torrent client with a WebDAV server, allowing users to add torrent files, stream partially downloaded files, and manage torrents through a simple and intuitive interface.
+https://github.com/Jipok/torrent-webdav/assets/25588359/f1086431-b5bf-4f9d-8983-6ca593b5252f
 
 ## Features
 
