@@ -1,6 +1,6 @@
 # Torrent WebDAV Client
 
-[1](screencast.mp4)
+https://github.com/Jipok/torrent-webdav/assets/25588359/f1086431-b5bf-4f9d-8983-6ca593b5252f
 
 Torrent WebDAV Client is a powerful tool designed to streamline the process of managing and accessing torrent files over a network. This application combines the capabilities of a torrent client with a WebDAV server, allowing users to add torrent files, stream partially downloaded files, and manage torrents through a simple and intuitive interface.
 
